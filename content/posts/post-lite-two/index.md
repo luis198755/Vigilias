@@ -1,25 +1,36 @@
 ---
-title: "Super cool article that I wrote"
-summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
+title: "El bordado tenango"
+summary: "El bordado tenango, originario de la comunidad Otomí-Tepehua en Tenango de Doria, en el estado de Hidalgo, México, es más que una expresión artística; es un lenguaje visual que narra la cosmovisión, las tradiciones y la vida cotidiana de sus creadores. Este ensayo explorará la historia, las características y la relevancia cultural de estos bordados, así como los desafíos actuales que enfrentan."
 categories: ["Post","Blog",]
 tags: ["post","lorem","ipsum"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-04
+date: 2024-05-09
 draft: false
 ---
 
-## Lorem ipsum dolor sit amet
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna. Nulla venenatis volutpat libero, in laoreet leo fringilla eget. Etiam consequat sed nisi sit amet interdum. Pellentesque ullamcorper at turpis in ultrices. Pellentesque et elit mauris. Aenean eu augue sit amet nunc interdum ultricies. Aenean eleifend consectetur sapien vitae consectetur. Donec risus mauris, finibus at condimentum at, lacinia sit amet neque. Nulla facilisi. Suspendisse sollicitudin dolor quis eros tempor, a tempus ex varius.
+El bordado tenango, originario de la comunidad Otomí-Tepehua en Tenango de Doria, en el estado de Hidalgo, México, es más que una expresión artística; es un lenguaje visual que narra la cosmovisión, las tradiciones y la vida cotidiana de sus creadores. Este ensayo explorará la historia, las características y la relevancia cultural de estos bordados, así como los desafíos actuales que enfrentan.
 
-## Nunc non leo non magna
-Nunc non leo non magna ornare condimentum. Phasellus consequat nunc ut tellus porttitor bibendum. In pharetra ullamcorper metus quis mollis. Mauris bibendum, est in commodo hendrerit, dolor purus hendrerit dolor, at pharetra sapien erat sit amet ante. Etiam aliquet euismod libero, vel tincidunt felis mollis at. Sed scelerisque, tortor in convallis auctor, elit quam consectetur lacus, quis posuere risus libero non sem. Mauris sagittis nisi id aliquam lacinia. Vivamus finibus velit sed condimentum aliquet. Nullam in ante a erat lacinia semper. Curabitur pretium justo at leo maximus, quis dignissim nulla posuere. Donec eget consectetur neque, et mattis dui. Vivamus at mi enim. Nullam et nisi est. Nullam eget eros blandit, convallis odio eget, ornare enim.
+## Historia y Origen
 
-## Quisque ultricies
-Quisque ultricies tincidunt sem nec tincidunt. Aenean nibh diam, dapibus varius ornare nec, suscipit ut arcu. Integer ut elit sollicitudin, fermentum ipsum nec, tempus eros. Donec hendrerit facilisis maximus. Pellentesque eu mi ipsum. Vivamus diam tellus, varius sed dolor at, finibus tempus lorem. Morbi sed mauris quis enim vehicula hendrerit. Sed et sollicitudin est. Maecenas scelerisque ligula ac purus gravida, et feugiat nibh blandit. Integer id quam ac arcu convallis interdum eget sed libero. Aliquam varius est quis efficitur efficitur. Cras id turpis magna. Aenean cursus, libero auctor ullamcorper vestibulum, nisl risus consectetur nisi, ut molestie enim libero sed ipsum.
+El bordado tenango tiene sus raíces en las tradiciones textiles prehispánicas de los otomíes, aunque la forma que conocemos hoy se comenzó a popularizar alrededor de la década de 1960. Ante la necesidad económica y la disminución de prácticas como la agricultura, las mujeres de Tenango de Doria comenzaron a comercializar su arte textil. Se cree que el cambio de los pigmentos naturales a los hilos industriales coloreados permitió una mayor vibración y diversidad en los diseños, lo que aumentó su atractivo en los mercados locales y, eventualmente, internacionales.
 
-## Etiam sollicitudin
-Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictum magna sem sed nibh. In et est id neque gravida aliquet quis a felis. Mauris tempor lectus ut gravida ornare. Curabitur at elementum tortor, in feugiat elit. Aenean auctor diam ut egestas rhoncus. Quisque tristique venenatis risus vitae suscipit. Nunc feugiat purus sed dolor gravida, non ullamcorper metus suscipit. Sed et tortor odio. Pellentesque at scelerisque nulla. In ut aliquam metus. Vivamus congue augue at pellentesque rhoncus. Donec a lectus tincidunt, aliquet libero sit amet, commodo arcu. Vivamus hendrerit quis augue eu lacinia. Sed sodales velit condimentum eros varius vulputate.
+## Características del Bordado Tenango
 
-## Proin tempor lorem
-Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.
+El bordado se realiza sobre telas de algodón liso, donde los artesanos, predominantemente mujeres, dibujan y luego cosen escenas que pueden incluir animales, plantas, personas y figuras mitológicas, todos conectados en composiciones dinámicas y detalladas. Los colores son intensos y variados, y aunque originalmente se utilizaban tonos más sutiles y naturales, hoy en día los bordados son conocidos por su brillantez y diversidad cromática.
+
+Una característica distintiva del bordado tenango es que no existe un patrón fijo; cada pieza es única y es el resultado de la memoria y la creatividad individual de la bordadora, que plasma en el textil tanto escenas cotidianas como narrativas históricas o mitológicas de su comunidad.
+
+## Relevancia Cultural
+
+El bordado no solo es un reflejo del pasado prehispánico de la comunidad Otomí-Tepehua, sino que también es una práctica viva que se adapta y responde a los cambios contemporáneos. Los tenangos cuentan historias y preservan la memoria cultural, siendo una fuente de identidad y orgullo étnico. Además, el bordado ha servido como una herramienta crucial de empoderamiento económico para muchas mujeres, proporcionándoles una fuente de ingreso y una plataforma para la expresión cultural.
+
+## Desafíos Contemporáneos
+
+A pesar de su belleza y valor cultural, el bordado tenango enfrenta varios desafíos. La apropiación cultural y la falta de derechos de propiedad intelectual son problemas significativos, ya que diseñadores y corporaciones a menudo utilizan estos diseños tradicionales sin compensar a las comunidades originarias. Esto no solo afecta la economía local sino que también pone en riesgo la integridad y la autenticidad del arte tenango.
+
+Además, la globalización y el cambio en las dinámicas de mercado exigen una producción más rápida y voluminosa que puede comprometer la calidad y el significado de los bordados. La balanza entre preservar la tradición y adaptarse a las nuevas demandas del mercado es delicada y crucial para el futuro del bordado tenango.
+
+## Conclusión
+
+El bordado tenango es un espejo del espíritu de la comunidad Otomí-Tepehua, reflejando su historia, creencias y su constante dinamismo. A medida que estos textiles viajan por el mundo, no solo llevan consigo colores y formas; llevan historias, tradiciones y voces de un pueblo que, a través de sus hilos, continúa narrando su pasado mientras teje su futuro. Es esencial reconocer, respetar y proteger este arte para asegurar que continúe siendo una fuente de identidad y sustento para las futuras generaciones.
