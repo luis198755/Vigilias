@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huapango on Diego R.N.</title>
-    <link>//localhost:1313/tags/huapango/</link>
+    <link>/tags/huapango/</link>
     <description>Recent content in Huapango on Diego R.N.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/huapango/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/huapango/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Son Huasteco: Tradición y Vitalidad en la Música Mexicana</title>
-      <link>//localhost:1313/posts/post-lite-one/</link>
+      <link>/posts/post-lite-one/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-one/</guid>
+      <guid>/posts/post-lite-one/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-one/cover.webp" />
+    </item>
+    
+    <item>
+      <title>El Son Huasteco: Tradición y Vitalidad en la Música Mexicana</title>
+      <link>/videos/post-lite-one/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/videos/post-lite-one/</guid>
+      <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-one/cover.webp" />
     </item>
     
   </channel>
