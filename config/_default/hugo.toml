@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 # baseURL = "https://diego.music-5.com//"
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 
 enableRobotsTXT = true
 paginate = 20
