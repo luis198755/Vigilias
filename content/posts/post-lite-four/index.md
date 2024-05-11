@@ -8,7 +8,7 @@ tags: ["post","lorem","ipsum"]
 date: 2024-05-10
 draft: false
 ---
-{{< youtubeLite id="mGQLXRTl3Z0" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="NbgAHpD4W_8" label="Blowfish-tools demo" >}}
 
 El Método Suzuki, desarrollado por el violinista y educador japonés Shinichi Suzuki en la década de 1940, es una filosofía de enseñanza musical que ha transformado el aprendizaje del violín y otros instrumentos musicales. Este método se basa en la premisa de que todos los niños tienen la capacidad de aprender música de manera similar a como aprenden su lengua materna. A continuación, exploraremos en profundidad los principios fundamentales del Método Suzuki para el aprendizaje del violín, así como sus ventajas significativas.
 
