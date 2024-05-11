@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El estudio de la música en la niñez</title>
+      <link>/posts/post-lite-three/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post-lite-three/</guid>
+      <description>El estudio de la música es una faceta del desarrollo infantil que ha demostrado tener múltiples beneficios a largo plazo, no solo en el ámbito artístico sino también en el cognitivo, social y emocional.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-three/cover.webp" />
+    </item>
+    
+    <item>
+      <title>El Método Suzuki</title>
+      <link>/posts/post-lite-four/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post-lite-four/</guid>
+      <description>Desarrollado por el violinista y educador japonés Shinichi Suzuki en la década de 1940, es una filosofía de enseñanza musical que ha transformado el aprendizaje del violín y otros instrumentos musicales.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-four/cover.webp" />
+    </item>
+    
     <item>
       <title>El bordado tenango</title>
       <link>/posts/post-lite-two/</link>
@@ -16,26 +36,6 @@
       <guid>/posts/post-lite-two/</guid>
       <description>El bordado tenango, originario de la comunidad Otomí-Tepehua en Tenango de Doria, en el estado de Hidalgo, México, es más que una expresión artística; es un lenguaje visual que narra la cosmovisión, las tradiciones y la vida cotidiana de sus creadores. Este ensayo explorará la historia, las características y la relevancia cultural de estos bordados, así como los desafíos actuales que enfrentan.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-two/cover.webp" />
-    </item>
-    
-    <item>
-      <title>Super cool article that I wrote</title>
-      <link>/posts/post-lite-three/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/post-lite-three/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-three/cover.webp" />
-    </item>
-    
-    <item>
-      <title>Super cool article that I wrote vv</title>
-      <link>/posts/post-lite-four/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/post-lite-four/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-four/cover.webp" />
     </item>
     
   </channel>
