@@ -18,5 +18,5 @@ sharingLinks : false
 
 Vigilias realizadas en 2024.
 
-<img class="thumbnailshadow" src="img/e.jpg" style="width: 300px;"/>
+<img class="thumbnailshadow" src="img/e.jpg" style="width: 100%;"/>
 
