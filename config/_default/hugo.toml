@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://vigilias-fricydim.vercel.app/"
+baseURL = "https://vigilias-fricydim.vercel.app/"
 defaultContentLanguage = "es"
 
 enableRobotsTXT = true
