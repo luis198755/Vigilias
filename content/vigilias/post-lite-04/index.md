@@ -99,7 +99,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 
 ### Sagrado Silencio 
 
-## 4:00 hrs
+## 24:00 hrs
 
 ### Finaliza la Vigilia.
 
