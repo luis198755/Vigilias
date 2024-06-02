@@ -9,6 +9,12 @@ date: 2024-02-02
 draft: false
 ---
 
+<img class="thumbnailshadow" src="../sc.jpg" style="width: 150px;"/>
+
+{{< icon "location-dot" >}} [Ubicación](https://maps.app.goo.gl/LtoMhFqZFPNVtzPd6)
+
+<img class="thumbnailshadow" src="cover.jpg" style="width: 400px;"/>
+
 ## De 20:00 a 21:00 hrs
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
