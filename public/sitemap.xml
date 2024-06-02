@@ -21,18 +21,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-three/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/posts/post-lite-four/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -45,25 +33,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/tags/ipsum/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>//localhost:1313/videos/post-lite-two/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/lorem/</loc>
-    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>//localhost:1313/tags/post/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -87,14 +57,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/posts/post-lite-two/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/posts/post-lite-four/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/posts/post-lite-one/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/post-lite-three/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/posts/post-lite-two/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

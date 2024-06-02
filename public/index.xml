@@ -19,26 +19,6 @@
     </item>
     
     <item>
-      <title>El estudio de la música en la niñez</title>
-      <link>//localhost:1313/posts/post-lite-three/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/post-lite-three/</guid>
-      <description>El estudio de la música es una faceta del desarrollo infantil que ha demostrado tener múltiples beneficios a largo plazo, no solo en el ámbito artístico sino también en el cognitivo, social y emocional.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.webp" />
-    </item>
-    
-    <item>
-      <title>El Método Suzuki</title>
-      <link>//localhost:1313/posts/post-lite-four/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/posts/post-lite-four/</guid>
-      <description>Desarrollado por el violinista y educador japonés Shinichi Suzuki en la década de 1940, es una filosofía de enseñanza musical que ha transformado el aprendizaje del violín y otros instrumentos musicales.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.webp" />
-    </item>
-    
-    <item>
       <title>La Camaya</title>
       <link>//localhost:1313/videos/post-lite-two/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
@@ -49,23 +29,43 @@
     </item>
     
     <item>
-      <title>El bordado tenango</title>
-      <link>//localhost:1313/posts/post-lite-two/</link>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <title>Vigilia de adoración y reparación</title>
+      <link>//localhost:1313/posts/post-lite-four/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-two/</guid>
-      <description>El bordado tenango, originario de la comunidad Otomí-Tepehua en Tenango de Doria, en el estado de Hidalgo, México, es más que una expresión artística; es un lenguaje visual que narra la cosmovisión, las tradiciones y la vida cotidiana de sus creadores. Este ensayo explorará la historia, las características y la relevancia cultural de estos bordados, así como los desafíos actuales que enfrentan.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.webp" />
+      <guid>//localhost:1313/posts/post-lite-four/</guid>
+      <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.jpg" />
     </item>
     
     <item>
-      <title>El Son Huasteco: Tradición y Vitalidad en la Música Mexicana</title>
+      <title>Vigilia de adoración y reparación - 20:00 - 24:00</title>
       <link>//localhost:1313/posts/post-lite-one/</link>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/posts/post-lite-one/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Vigilia de adoración y reparación</title>
+      <link>//localhost:1313/posts/post-lite-three/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/post-lite-three/</guid>
+      <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Vigilia de adoración y reparación</title>
+      <link>//localhost:1313/posts/post-lite-two/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/post-lite-two/</guid>
+      <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.jpg" />
     </item>
     
   </channel>
