@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HOME</title>
-    <link>https://vigilias-fricydim.vercel.app/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://vigilias-fricydim.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vigilia de adoración y reparación</title>
-      <link>https://vigilias-fricydim.vercel.app/posts/post-lite-four/</link>
+      <link>http://localhost:1313/posts/post-lite-four/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vigilias-fricydim.vercel.app/posts/post-lite-four/</guid>
+      <guid>http://localhost:1313/posts/post-lite-four/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim.vercel.app/posts/post-lite-four/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-four/cover.jpg" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación - 20:00 - 24:00</title>
-      <link>https://vigilias-fricydim.vercel.app/posts/post-lite-one/</link>
+      <link>http://localhost:1313/posts/post-lite-one/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vigilias-fricydim.vercel.app/posts/post-lite-one/</guid>
+      <guid>http://localhost:1313/posts/post-lite-one/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim.vercel.app/posts/post-lite-one/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-one/cover.jpg" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación</title>
-      <link>https://vigilias-fricydim.vercel.app/posts/post-lite-three/</link>
+      <link>http://localhost:1313/posts/post-lite-three/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vigilias-fricydim.vercel.app/posts/post-lite-three/</guid>
+      <guid>http://localhost:1313/posts/post-lite-three/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim.vercel.app/posts/post-lite-three/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-three/cover.jpg" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación</title>
-      <link>https://vigilias-fricydim.vercel.app/posts/post-lite-two/</link>
+      <link>http://localhost:1313/posts/post-lite-two/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vigilias-fricydim.vercel.app/posts/post-lite-two/</guid>
+      <guid>http://localhost:1313/posts/post-lite-two/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim.vercel.app/posts/post-lite-two/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post-lite-two/cover.jpg" />
     </item>
     
   </channel>
