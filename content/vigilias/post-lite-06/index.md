@@ -1,5 +1,5 @@
 ---
-title: "7 de junio -> 20:00 - 24:00"
+title: "7 de junio -> 20:00 - 24:00 hrs"
 summary: "Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales."
 categories: ["Post","Blog",]
 tags: ["Son Huasteco","Huapango"]
