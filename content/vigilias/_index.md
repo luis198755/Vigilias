@@ -15,3 +15,5 @@ showSummary : false
 sharingLinks : false
 
 ---
+
+Vigilias realizadas en 2024.

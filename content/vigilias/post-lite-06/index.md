@@ -1,6 +1,6 @@
 ---
-title: "7 de junio -> 20:00 - 24:00 hrs"
-summary: "Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales."
+title: "7 de junio -> 20:00 - 24:00 hrs. Parroquia de Nuestra Señora del Camino Puebla"
+summary: "Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo."
 categories: ["Post","Blog",]
 tags: ["Son Huasteco","Huapango"]
 #externalUrl: ""
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nu
 
 ### Ofrecimiento de la Vigilia FRICYDIM
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
 
 ### Reparación y Desagravio al Sagrado Corazón de Jesús y al Inmaculado Corazón de María
 
