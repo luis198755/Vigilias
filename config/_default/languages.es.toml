@@ -1,7 +1,7 @@
 languageCode = "es"
 languageName = "Spanish"
 weight = 1
-title = "HOME"
+title = "Vigilias de Adoración y Reparación"
 
 [params]
   displayName = "ES"
@@ -13,10 +13,10 @@ title = "HOME"
   dateFormat = "2 January 2006"
 
 [author]
-  name = "Diego"
+  name = "FRICYDIM - Puebla"
   image = "img/avatar.webp"
-  headline = "R.N."
-  bio = "Un Violinista Huapanguero"
+  headline = "Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales."
+  bio = "Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales"
   # links = [
   #   { link = "https://nunocoracao.github.io/blowfish/" },
   #   { github = "https://github.com/nunocoracao/blowfish" },

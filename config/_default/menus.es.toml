@@ -11,14 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Vigilias"
+  name = "Vigilias 2024"
   pageRef = "vigilias"
   weight = 10
 
-[[main]]
-  name = "Videos"
-  pageRef = "videos"
-  weight = 20
+#[[main]]
+#  name = "Videos"
+#  pageRef = "videos"
+#  weight = 20
 
 #[[main]]
 #  name = "Tags"

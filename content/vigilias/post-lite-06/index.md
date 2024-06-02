@@ -1,11 +1,11 @@
 ---
-title: "Vigilia de adoración y reparación - 20:00 - 24:00"
-summary: "El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla."
+title: "7 de junio -> 20:00 - 24:00"
+summary: "Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales."
 categories: ["Post","Blog",]
 tags: ["Son Huasteco","Huapango"]
 #externalUrl: ""
 #showSummary: true
-date: 2024-05-03
+date: 2024-06-02
 draft: false
 ---
 

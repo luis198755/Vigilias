@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on HOME</title>
-    <link>https://vigilias-fricydim.vercel.app/categories/</link>
-    <description>Recent content in Categories on HOME</description>
+    <title>Categories on Vigilias de Adoración y Reparación</title>
+    <link>https://vigilias-fricydim-puebla.vercel.app/categories/</link>
+    <description>Recent content in Categories on Vigilias de Adoración y Reparación</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://vigilias-fricydim.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://vigilias-fricydim-puebla.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://vigilias-fricydim.vercel.app/categories/blog/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <link>https://vigilias-fricydim-puebla.vercel.app/categories/blog/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vigilias-fricydim.vercel.app/categories/blog/</guid>
+      <guid>https://vigilias-fricydim-puebla.vercel.app/categories/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>https://vigilias-fricydim.vercel.app/categories/post/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <link>https://vigilias-fricydim-puebla.vercel.app/categories/post/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://vigilias-fricydim.vercel.app/categories/post/</guid>
+      <guid>https://vigilias-fricydim-puebla.vercel.app/categories/post/</guid>
       <description></description>
       
     </item>
