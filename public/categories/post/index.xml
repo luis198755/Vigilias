@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on HOME</title>
-    <link>/categories/post/</link>
+    <link>//localhost:1313/categories/post/</link>
     <description>Recent content in Post on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Caballito</title>
-      <link>/videos/post-lite-one/</link>
+      <link>//localhost:1313/videos/post-lite-one/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/videos/post-lite-one/</guid>
+      <guid>//localhost:1313/videos/post-lite-one/</guid>
       <description>El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-one/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/videos/post-lite-one/cover.webp" />
     </item>
     
     <item>
       <title>El estudio de la música en la niñez</title>
-      <link>/posts/post-lite-three/</link>
+      <link>//localhost:1313/posts/post-lite-three/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-three/</guid>
+      <guid>//localhost:1313/posts/post-lite-three/</guid>
       <description>El estudio de la música es una faceta del desarrollo infantil que ha demostrado tener múltiples beneficios a largo plazo, no solo en el ámbito artístico sino también en el cognitivo, social y emocional.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-three/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.webp" />
     </item>
     
     <item>
       <title>El Método Suzuki</title>
-      <link>/posts/post-lite-four/</link>
+      <link>//localhost:1313/posts/post-lite-four/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-four/</guid>
+      <guid>//localhost:1313/posts/post-lite-four/</guid>
       <description>Desarrollado por el violinista y educador japonés Shinichi Suzuki en la década de 1940, es una filosofía de enseñanza musical que ha transformado el aprendizaje del violín y otros instrumentos musicales.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-four/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.webp" />
     </item>
     
     <item>
       <title>La Camaya</title>
-      <link>/videos/post-lite-two/</link>
+      <link>//localhost:1313/videos/post-lite-two/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/videos/post-lite-two/</guid>
+      <guid>//localhost:1313/videos/post-lite-two/</guid>
       <description>El Huapango La Camaya es otra joya musical dentro del repertorio tradicional de la Huasteca, una región que abarca varios estados en el este de México</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-two/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/videos/post-lite-two/cover.webp" />
     </item>
     
     <item>
       <title>El bordado tenango</title>
-      <link>/posts/post-lite-two/</link>
+      <link>//localhost:1313/posts/post-lite-two/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-two/</guid>
+      <guid>//localhost:1313/posts/post-lite-two/</guid>
       <description>El bordado tenango, originario de la comunidad Otomí-Tepehua en Tenango de Doria, en el estado de Hidalgo, México, es más que una expresión artística; es un lenguaje visual que narra la cosmovisión, las tradiciones y la vida cotidiana de sus creadores. Este ensayo explorará la historia, las características y la relevancia cultural de estos bordados, así como los desafíos actuales que enfrentan.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-two/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.webp" />
     </item>
     
     <item>
       <title>El Son Huasteco: Tradición y Vitalidad en la Música Mexicana</title>
-      <link>/posts/post-lite-one/</link>
+      <link>//localhost:1313/posts/post-lite-one/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/post-lite-one/</guid>
+      <guid>//localhost:1313/posts/post-lite-one/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-one/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.webp" />
     </item>
     
   </channel>
