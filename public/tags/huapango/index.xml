@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huapango on HOME</title>
-    <link>//localhost:1313/tags/huapango/</link>
+    <link>/tags/huapango/</link>
     <description>Recent content in Huapango on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/huapango/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/huapango/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Caballito</title>
-      <link>//localhost:1313/videos/post-lite-one/</link>
+      <link>/videos/post-lite-one/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/videos/post-lite-one/</guid>
+      <guid>/videos/post-lite-one/</guid>
       <description>El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/videos/post-lite-one/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-one/cover.webp" />
     </item>
     
     <item>
       <title>La Camaya</title>
-      <link>//localhost:1313/videos/post-lite-two/</link>
+      <link>/videos/post-lite-two/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/videos/post-lite-two/</guid>
+      <guid>/videos/post-lite-two/</guid>
       <description>El Huapango La Camaya es otra joya musical dentro del repertorio tradicional de la Huasteca, una región que abarca varios estados en el este de México</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/videos/post-lite-two/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/videos/post-lite-two/cover.webp" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación</title>
-      <link>//localhost:1313/posts/post-lite-four/</link>
+      <link>/posts/post-lite-four/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-four/</guid>
+      <guid>/posts/post-lite-four/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-four/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-four/cover.jpg" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación - 20:00 - 24:00</title>
-      <link>//localhost:1313/posts/post-lite-one/</link>
+      <link>/posts/post-lite-one/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-one/</guid>
+      <guid>/posts/post-lite-one/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-one/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-one/cover.jpg" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación</title>
-      <link>//localhost:1313/posts/post-lite-three/</link>
+      <link>/posts/post-lite-three/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-three/</guid>
+      <guid>/posts/post-lite-three/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-three/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-three/cover.jpg" />
     </item>
     
     <item>
       <title>Vigilia de adoración y reparación</title>
-      <link>//localhost:1313/posts/post-lite-two/</link>
+      <link>/posts/post-lite-two/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post-lite-two/</guid>
+      <guid>/posts/post-lite-two/</guid>
       <description>El son huasteco, también conocido como huapango, es una de las expresiones musicales más emblemáticas de México, que destaca por su vitalidad y profunda conexión con la cultura y tradiciones de la región huasteca, abarcando partes de los estados de Hidalgo, Veracruz, San Luis Potosí, Querétaro, Tamaulipas y Puebla.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post-lite-two/cover.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post-lite-two/cover.jpg" />
     </item>
     
   </channel>
