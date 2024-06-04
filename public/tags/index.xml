@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vigilias de Adoración y Reparación</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://vigilias-fricydim-puebla.vercel.app/tags/</link>
     <description>Recent content in Tags on Vigilias de Adoración y Reparación</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     
-    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://vigilias-fricydim-puebla.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Huapango</title>
-      <link>http://localhost:1313/tags/huapango/</link>
+      <link>https://vigilias-fricydim-puebla.vercel.app/tags/huapango/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/huapango/</guid>
+      <guid>https://vigilias-fricydim-puebla.vercel.app/tags/huapango/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Son Huasteco</title>
-      <link>http://localhost:1313/tags/son-huasteco/</link>
+      <link>https://vigilias-fricydim-puebla.vercel.app/tags/son-huasteco/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/son-huasteco/</guid>
+      <guid>https://vigilias-fricydim-puebla.vercel.app/tags/son-huasteco/</guid>
       <description></description>
       
     </item>
