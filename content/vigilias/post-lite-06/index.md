@@ -25,98 +25,66 @@ draft: false
 
 ## *Esquema de la Vigilia*
 
-### De 20:00 a 21:00 hrs
+### * De 20:00 a 21:00 hrs *
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+Dispongamos nuestros corazones amada Familia FRICYDIM-MATER FÁTIMA para  Amar, Adorar, Glorificar y  Reparar a los Sagrados Corazónes de Jesús y María.
 
 #### Ofrecimiento de la Vigilia FRICYDIM
 
+Ofrecimiento de la Vigilia FRICYDIM.
+Reparación y Desagravio al Sagrado Corazón de Jesús y al Inmaculado Corazón de María.
+
 Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
 
-#### Reparación y Desagravio al Sagrado Corazón de Jesús y al Inmaculado Corazón de María
+#### - Acuérdate al Sagrado Corazón, pag.89
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+Acuérdate ¡oh Sagrado Corazón de Jesús! de todo lo que has hecho por salvarnos. Acuérdate del eterno e inmenso amor que has tenido por todos los hombres; que tu Corazón acoja a los que a Ti acuden y se conmueva ante nuestras debilidades. llenos de confianza y amor, venimos a tu Corazón, como el corazón del mejor de los padres, del más fiel y bueno de los amigos. Recíbenos, ¡ oh Corazón sagrado! en tu infinita ternura; haznos sentir los efectos de tu amor; sé nuestro apoyo, nuestro mediador ante nuestro Padre, y concédenos la fuerza en nuestra debilidad, consuelo en nuestras penas, y la gracia de amarte en el tiempo y de poseerte en la eternidad. Corazón de Jesús, acudo a Ti porque eres mi refugio, mi esperanza; el remedio de todos mis males, el alivio de mis miserias, la reparación de todas mis faltas, la seguridad de todas mis peticiones, la fuente inagotable para mí, y para todos la luz, la fuerza, la constancia, la paz y la bendición. Estoy seguro que no te cansarás de mí y que no cesarás de amarme, protegerme y ayudarme, porque me amas con un amor infinito. Ten piedad de mí, según tu gran misericordia, Y haz de mí, por mí, y en mí todo lo que quieras, porque yo me abandono a tu Corazón con la ~ntera confianza de que no me abandonarás jamas. Amén.
 
-#### Oración a Jesús Crucificado pag. 179
+#### - Acto de proclamación del Sagrado Corazón de Jesús como Rey de México y juramento de fidelidad y vasallaje, pag. 90-91
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+#### - Sagrado Silencio
 
-#### Poema a Jesús en la Cruz pag. 179
+### * 21:00 a 22:00 hrs. *
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+#### - 🥈Adoración Nocturna Mexicana
 
-#### Delante de la Cruz pag. 180
+#### - Manual de Adoración Nocturna
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+### * 22:00 a 23:00 hrs. *
 
-#### Sagrado Silencio
+#### - Acto de reparación por el tiempo perdido y las gracias desaprovechadas, pag.92
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+#### - Oración de Desagravio al Sagrado Corazón pag. 92-93
 
-### De 21:00 a 22:00 hrs
+#### - Práctica de desagravio pag.93-94
 
-#### Adoración Nocturna Mexicana
+#### - Acto de Consagración que hizo de sí al Sagrado Corazón Santa Margarita, pag. 86 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+#### - Santo Rosario - Los Misterios y sus Frutos
 
-### 22 hrs
+- Misterios Gozosos, pag. 349-350
 
-#### Oración para ofrecerse a padecer en la Cruz ➕, junto con Jesús pag. 180
+#### - Letanías al Inmaculado Corazón de María, pag. 347-348
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+#### - Acto de Ofrecimiento y Consagración al Inmaculado Corazón de María, (San Juan Pablo II), pag. 346-347
 
-#### Acto de reparación pag.92
+#### - Sagrado Silencio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+#### - Agradecimiento y Despedida
 
-#### Oración de Desagravio al Sagrado Corazón pag. 92-93
+- Actos de gratitud, 
+ pag. 112
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+- Actos de súplica 
+pag. 113
 
-#### Práctica de desagravio pag. 93-94
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-#### Sagrado Silencio
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-### 23:00 hrs
-
-#### Santo Rosario - Misterios Gozosos pag. 205 -206
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-#### Flor del 3 de Mayo: Madre de Dios pag. 241
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-#### Oración a la Vírgen María que resume toda la teología mariana pag. 396-397
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-#### Sagrado Silencio
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-### Agradecimiento y Despedida
-
-#### Actos de gratitud, pag. 112
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-#### Actos de súplica, pag. 113
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
-
-#### Oración Final. pag. 113
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+- Oración Final.
+pag. 113
 
 #### Sagrado Silencio 
 
-### 24:00 hrs
+### * 24:00 hrs *
 
 #### Finaliza la Vigilia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa.
+Al final...mi Inmaculado Corazón triunfará.
