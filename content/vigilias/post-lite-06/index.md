@@ -120,11 +120,112 @@ Sagrado Corazón de Jesús, Corazón de nuestro Dios: concédenos tu gracia y es
 
 #### - Acto de Consagración que hizo de sí al Sagrado Corazón Santa Margarita, pag. 86 
 
+Corazón Sagrado de mi amado Jesús: yo, aunque vilísima criatura, te doy y consagro mi persona, vida, acciones, penas y padecimientos, deseando que ninguna parte de mi ser me sirva más que para amarte, honrarte y glorificarte. Esta es mi voluntad irrevocable; ser toda Tuya y hacerlo todo por tu amor, renunciando de todo corazón a cuanto pueda desagradarte. Te tomo, pues ¡0h Corazón Sagrado!, por el único objeto de mi amor, protector de mi vida, prenda de mi salvación, remedio de mi inconstancia, reparador de todos los defectos de mi vida, y asilo seguro en la hora de mi muerte; sé, pues, Corazón bondadoso!, mi justificación para con Dios Padre, y aleja de mi los rayos de su justa cólera.
+
+Oh Corazón amoroso! Pongo toda mi confianza en Ti, pues aunque lo temo todo de mi debilidad, sin embargo, todo lo espero de tu Misericordia; consume en mí todo lo que te desagrada y resiste, y haz que tu puro amor se imprima tan íntimamente en mi corazón, que jamás pueda olvidarte ni ser separada de Ti. Te suplico, por tu misma bondad, escribas mi nombre en Ti mismo, pues quiero hacer consistir toda mi dicha en vivir y morir como tu esclava. Amén.
+
 #### - Santo Rosario - Los Misterios y sus Frutos
 
 - Misterios Gozosos, pag. 349-350
 
+1. Primer misterio: La Anunciación del Ángel a María Santisima.
+
+    "Y habiendo entrado el ángel a donde estaba María le dijo: Dios te salve, llena eres de gracia" (Lc 1, 28).
+
+    - El fruto de este misterio: La humildad.
+
+2. Segundo misterio: La Visita de la Virgen María a su Prima Sata Isabel.
+
+    "Al oír Isabel el saludo de María, la criatura saltó de alegria en su vientre y exclamó en alta Voz: Bendita eres entre todas las mujeres y bendito es el fruto de tu vientre" (Lc 1, 41-42)
+
+    - El fruto de este misterio: El amor al prójimo.
+
+3. Tercer misterio: El Nacimiento del Niño Jesús en Belén.
+
+    "Y dio a luz a su hijo primogénito y lo envolvió en pa ñales, y lo recostó en un pesebre; porque no hubo lugar para ellos en las posadas" (Lc 2, 7).
+
+    - E fruto de este misterio: El amor a la pobreza.
+
+4. Cuarto misterio: La Presentación del Niño Jesús en el Templo.
+
+    "Cumplido el tiempo de la purificación, según la ley de Moisés, llevaron al niño a Jerusalén para presentarlo al Señor, como está escrito en la ley: todo primogénito varón será consagrado al Señor" (Lc 2, 22-23).
+
+    - El fruto de este misterio: La obediencia.
+
+5. Quinto misterio: El niño perdido y allado en el Templo.
+
+    "Y al cabo de tres días de haberlo perdido, le hallaron en el templo, sentado en medio de los doctores de la ley oyéndoles y preguntándoles" (Lc 2, 46).
+
+    - El fruto de este misterio: El continuo empeño por la vida de la gracia. El gozo de hallar a Jesús y vivir con Él en nuestro interior.
+
 #### - Letanías al Inmaculado Corazón de María, pag. 347-348
+
+    Repetimos lo mismo a cada invocación:
+
+    - Señor, ten piedad.
+    - Cristo, ten piedad.
+    - Señor, ten piedad.
+    - Cristo, óyenos.
+    - Cristo, escúchanos.
+    - Dios Padre celestial,
+    - Dios Hijo Redentor del mundo,
+    - Dios Espíritu Santo,
+    - Santa Trinidad, un solo Dios, 
+
+    A cada invocación respondemos: "Ruega por nosotros". 
+
+    - Inmaculado Corazón de María,
+    - Corazón de María, lleno de gracia,
+    - Corazón de María, vaso del amor más puro,
+    - Corazón de María, consagrado íntegro a Dios
+    - Corazón de María, preservado de todo pecado,
+    - Corazón de María, morada de la Santísima Trinidad,
+    - Corazón de María, delicia del Padre en la Creación,
+    - Corazón de María, instrumento del Hijo en la Redención,
+    - Corazón de María, la esposa del Espíritu Santo,
+    - Corazón de María, abismo y prodigio de humildad,
+    - Corazón de María, mediador de todas las gracias,
+    - Corazón de María, latiendo al unísono con el Corazón de Jesús,
+    - Corazón de María, gozando siempre de la visión beatífica,
+    - Corazón de María, holocausto del amor divino,
+    - Corazón de María, abogado ante la justicia divina,
+    - Corazón de María, traspasado de una espada,
+    - Corazón de María, coronado de espinas por nuestros pecados,
+    - Corazón de María, agonizando en la Pasión de tu Hijo,
+    - Corazón de María, exultando en la resurrección de tu Hijo,
+    - Corazón de María, triunfando eternamente con Jesús,
+    - Corazón de María, fortaleza de los cristianos,
+    - Corazón de María, refugio de los perseguidos,
+    - Corazón de María, esperanza de los pecadores,
+    - Corazón de María, consuelo de los moribundos,
+    - Corazón de María, alivio de los que sufren,
+    - Corazón de María, lazo de unión con Cristo,
+    - Corazón de María, camino seguro al Cielo,
+    - Corazón de María, prenda de paz y santidad,
+    - Corazón de María, vencedora de las herejas,
+    - Corazón de María, de la Reina de Cielos y Tiera,
+    - Corazón de María, de la Madre de Dios y de la Iglesia,
+    - Corazón de María, que por fin triunfarás,
+    
+    V. Cordero de Dios que quitas el pecado del mundo,
+    R. Perdónanos Señor.
+    V. Cordero de DioS que quitas el pecado del mundo,
+    R. Escúchanos Señor.
+    V. Cordero de Dios que quitas el pecado del mundo,
+    R. Ten misericordia de nosotros.
+    V. Ruega por nosotros Santa Madre de Dios,
+    R. Para que seamos dignos de alcanzar las
+    promesas de nuestro Señor Jesucristo.
+    
+    Oremos:
+    
+    Tú que nos has preparado en el Corazón Inmaculado
+    de María una digna morada de tu Hijo Jesucristo,
+    concédenos la gracia de vivir siempre conformes
+    a sus enseñanzas y de cumplir sus deseos. 
+    Por Cristo tu Hijo, nuestro Señor. Amén. 
+
+
 
 #### - Acto de Ofrecimiento y Consagración al Inmaculado Corazón de María, (San Juan Pablo II), pag. 346-347
 
