@@ -34,7 +34,7 @@ Dispongamos nuestros corazones amada Familia FRICYDIM-MATER FÁTIMA para  Amar, 
 Ofrecimiento de la Vigilia FRICYDIM.
 Reparación y Desagravio al Sagrado Corazón de Jesús y al Inmaculado Corazón de María.
 
-Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
+Esta vigilia de adoración y reparación la ofrecemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
 
 ### Oraciones tomadas del libro "Gemidos Inenarrables"
 
