@@ -78,6 +78,46 @@ Oh Corazón glorioso del Hijo de Dios crucificado! Tú eres el océano de amor, 
 
 #### - Práctica de desagravio pag.93-94
 
+Divino Corazón de Jesús, me postro humilde mente en tu divino acatamiento, renuevo el ofrecimiento de mí mismo, con el propósito de desagraviarte de las ofensas, que de mí y de los demás has recibido, con fervorosos actos de amor y fidelidad. 
+
+Te prometo que: 
+
+- Cuanto más calumniados sean tus misterios, más firmemente los creeré, ¡0h Divino Corazón de Jesús! 
+
+- Cuanto más porfíe el incrédulo en quitarme la esperanza de la gloria eterna, tanto más esperaré en Ti, ¡0h Corazón de Jesús, única esperanza de los mortales!
+
+- Cuando más resistan los humanos corazones a los impulsos de tu gracia, tanto más te amaré, ¡0h Corazón infinitamente amable de Jesús!
+
+- Cuanto más niegue el impío y blasfeme de tu divinidad, tanto más te adoraré, ¡0h Divino Corazón de Jesús!
+
+- Cuanto más sean olvidados y quebrantados tus Santos mandamientos, con tanta mayor fidelidad querré guardar, ¡Santísimo Corazón de Jesús!
+
+- Cuanto más sean despreciados y descuidados tus Sacramentos, con tanto más amor y reverencia los recibiré, ¡Oh generosísimo Corazón de Jesús!
+
+- Cuanto más sea maltratado, combatido y descuidado el Santísimo Sacramento del altar, más fe, reverencia, piedad y amor pondré en adorarlo y recibirlo en la comunión ¡0h Sagrado Corazón, misterio sagrado e insondable!
+
+- Cuanto más desconfianza el mundo tenga de tu infinita Misericordia, más confiaré en ella y la invocaré con la certeza ciega de tu infinita solicitud, ¡Oh Corazón de Jesús, rico en Misericordia!
+
+- Cuanto más desconocidas sean tus adorables virtudes, con tanto mayor empeño me propondré ejercitarlas, ¡Oh Corazón de Jesús, espejo de to das las virtudes!
+
+- Cuanto más trabaje el infierno por perder las almas que Tú rescataste con tanto amor y sufrimiento, tanto más ardientemente será mi celo por salvarlas, ¡0h Corazón de Jesús, Celador de las almas!
+
+- Cuanto más se empeñen el sensualismo y la soberbia por desarraigar del mundo el espíritu de abnegación y el cumplimiento fiel de mis obligaciones, tanto más incentivaré el espíritu de sacrificio y de abnegación, ¡Oh Corazón de Jesús, saciado de oprobios!
+
+- Cuanto más tenazmente combatan a la lglesia las puertas del infierno, más fiel seré a ella, ¡Oh fidelísimo Corazón de Jesús!
+
+- Cuanto más se levante el mundo contra las infalibles enseñanzas del Papa, con tanta mayor fe las atenderé, la llevaré a la práctica y con humilde sumisión me dejaré llevar de él, ¡Oh Corazón de Jesús, verdad eterna!
+
+- Cuanto más atacada sea tu Santa Madre y Madre de los hombres, más la amaré y me confiaré a su Inmaculado Corazón, ¡Oh Sagrado Corazón de Jesús, reflejo de amor de María Santisima!
+
+- Cuanto más desprecios el mundo haga hacia tus ministros, obispos, sacerdotes, diáconos y consagrados, más los amaré y creeré en ese admirable misterio de posesión y acción divina en ellos, ¡Oh Sagrado Corazón del Sumo y Eterno sacerdote!
+
+- Cuanto más se dividan los hombres llevados por el egoísmo, tanto más los amaré en Ti a todos, como miembros de una misma familia, ¡Oh amorosísimo Corazón de Jesús!
+
+**Oremos**
+
+Sagrado Corazón de Jesús, Corazón de nuestro Dios: concédenos tu gracia y esfuérzanos con ella tan constante y firmemente, que como fieles hijos de la Iglesia, seamos tus apóstoles, acá en la tierra y después tu corona, por toda la eternidad. Amén.
+
 #### - Acto de Consagración que hizo de sí al Sagrado Corazón Santa Margarita, pag. 86 
 
 #### - Santo Rosario - Los Misterios y sus Frutos
