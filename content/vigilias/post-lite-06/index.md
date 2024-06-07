@@ -160,87 +160,176 @@ Oh Corazón amoroso! Pongo toda mi confianza en Ti, pues aunque lo temo todo de 
 
 #### - Letanías al Inmaculado Corazón de María, pag. 347-348
 
-    Repetimos lo mismo a cada invocación:
+Repetimos lo mismo a cada invocación:
 
-    - Señor, ten piedad.
-    - Cristo, ten piedad.
-    - Señor, ten piedad.
-    - Cristo, óyenos.
-    - Cristo, escúchanos.
-    - Dios Padre celestial,
-    - Dios Hijo Redentor del mundo,
-    - Dios Espíritu Santo,
-    - Santa Trinidad, un solo Dios, 
+- Señor, ten piedad.
+- Cristo, ten piedad.
+- Señor, ten piedad.
+- Cristo, óyenos.
+- Cristo, escúchanos.
+- Dios Padre celestial,
+- Dios Hijo Redentor del mundo,
+- Dios Espíritu Santo,
+- Santa Trinidad, un solo Dios, 
 
-    A cada invocación respondemos: "Ruega por nosotros". 
+A cada invocación respondemos: "Ruega por nosotros". 
 
-    - Inmaculado Corazón de María,
-    - Corazón de María, lleno de gracia,
-    - Corazón de María, vaso del amor más puro,
-    - Corazón de María, consagrado íntegro a Dios
-    - Corazón de María, preservado de todo pecado,
-    - Corazón de María, morada de la Santísima Trinidad,
-    - Corazón de María, delicia del Padre en la Creación,
-    - Corazón de María, instrumento del Hijo en la Redención,
-    - Corazón de María, la esposa del Espíritu Santo,
-    - Corazón de María, abismo y prodigio de humildad,
-    - Corazón de María, mediador de todas las gracias,
-    - Corazón de María, latiendo al unísono con el Corazón de Jesús,
-    - Corazón de María, gozando siempre de la visión beatífica,
-    - Corazón de María, holocausto del amor divino,
-    - Corazón de María, abogado ante la justicia divina,
-    - Corazón de María, traspasado de una espada,
-    - Corazón de María, coronado de espinas por nuestros pecados,
-    - Corazón de María, agonizando en la Pasión de tu Hijo,
-    - Corazón de María, exultando en la resurrección de tu Hijo,
-    - Corazón de María, triunfando eternamente con Jesús,
-    - Corazón de María, fortaleza de los cristianos,
-    - Corazón de María, refugio de los perseguidos,
-    - Corazón de María, esperanza de los pecadores,
-    - Corazón de María, consuelo de los moribundos,
-    - Corazón de María, alivio de los que sufren,
-    - Corazón de María, lazo de unión con Cristo,
-    - Corazón de María, camino seguro al Cielo,
-    - Corazón de María, prenda de paz y santidad,
-    - Corazón de María, vencedora de las herejas,
-    - Corazón de María, de la Reina de Cielos y Tiera,
-    - Corazón de María, de la Madre de Dios y de la Iglesia,
-    - Corazón de María, que por fin triunfarás,
-    
-    V. Cordero de Dios que quitas el pecado del mundo,
-    R. Perdónanos Señor.
-    V. Cordero de DioS que quitas el pecado del mundo,
-    R. Escúchanos Señor.
-    V. Cordero de Dios que quitas el pecado del mundo,
-    R. Ten misericordia de nosotros.
-    V. Ruega por nosotros Santa Madre de Dios,
-    R. Para que seamos dignos de alcanzar las
-    promesas de nuestro Señor Jesucristo.
-    
-    Oremos:
-    
-    Tú que nos has preparado en el Corazón Inmaculado
-    de María una digna morada de tu Hijo Jesucristo,
-    concédenos la gracia de vivir siempre conformes
-    a sus enseñanzas y de cumplir sus deseos. 
-    Por Cristo tu Hijo, nuestro Señor. Amén. 
+- Inmaculado Corazón de María,
+- Corazón de María, lleno de gracia,
+- Corazón de María, vaso del amor más puro,
+- Corazón de María, consagrado íntegro a Dios
+- Corazón de María, preservado de todo pecado,
+- Corazón de María, morada de la Santísima Trinidad,
+- Corazón de María, delicia del Padre en la Creación,
+- Corazón de María, instrumento del Hijo en la Redención,
+- Corazón de María, la esposa del Espíritu Santo,
+- Corazón de María, abismo y prodigio de humildad,
+- Corazón de María, mediador de todas las gracias,
+- Corazón de María, latiendo al unísono con el Corazón de Jesús,
+- Corazón de María, gozando siempre de la visión beatífica,
+- Corazón de María, holocausto del amor divino,
+- Corazón de María, abogado ante la justicia divina,
+- Corazón de María, traspasado de una espada,
+- Corazón de María, coronado de espinas por nuestros pecados,
+- Corazón de María, agonizando en la Pasión de tu Hijo,
+- Corazón de María, exultando en la resurrección de tu Hijo,
+- Corazón de María, triunfando eternamente con Jesús,
+- Corazón de María, fortaleza de los cristianos,
+- Corazón de María, refugio de los perseguidos,
+- Corazón de María, esperanza de los pecadores,
+- Corazón de María, consuelo de los moribundos,
+- Corazón de María, alivio de los que sufren,
+- Corazón de María, lazo de unión con Cristo,
+- Corazón de María, camino seguro al Cielo,
+- Corazón de María, prenda de paz y santidad,
+- Corazón de María, vencedora de las herejas,
+- Corazón de María, de la Reina de Cielos y Tiera,
+- Corazón de María, de la Madre de Dios y de la Iglesia,
+- Corazón de María, que por fin triunfarás,
+
+V. Cordero de Dios que quitas el pecado del mundo,
+
+R. Perdónanos Señor.
+
+V. Cordero de DioS que quitas el pecado del mundo,
+
+R. Escúchanos Señor.
+
+V. Cordero de Dios que quitas el pecado del mundo,
+
+R. Ten misericordia de nosotros.
+
+V. Ruega por nosotros Santa Madre de Dios,
+
+R. Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.
+
+Oremos:
+
+Tú que nos has preparado en el Corazón Inmaculado
+de María una digna morada de tu Hijo Jesucristo,
+concédenos la gracia de vivir siempre conformes
+a sus enseñanzas y de cumplir sus deseos. 
+Por Cristo tu Hijo, nuestro Señor. Amén. 
 
 
 
 #### - Acto de Ofrecimiento y Consagración al Inmaculado Corazón de María, (San Juan Pablo II), pag. 346-347
 
+(Texto enviado por el Santo Padre a todos los obispos para realizar la Consagracion, que fue el que pronunció en Roma el 25 de marzo de 1984, para responder al pedido de la Virgen a Fátima)
+
+La familia es el corazón de la lglesia. Surja hoy de este corazón un acto de consagración especial al Corazón de la Madre de Dios. En el año Jubilar de la Redención queremos confesar que el Amor es mas grande que el pecado y que todo mal que amenaza al hombre y al mundo. Con humildad invoquemos este Amor: "Nos acogemos a tu protección, Santa Madre de Dios".
+
+Pronunciando las palabras de esta antífona, con la que la lglesia de Cristo reza desde hace siglos, nos encontramos hoy ante Ti, Madre, en el Año Jubilar de nuestra Redención.
+
+Estamos unidos a todos los Pastores de la Iglesia con un vínculo particular, formando un cuerpo y un colegio con Pedro.
+
+En el vínculo de esa unidad, pronunciamos las palabras de este Acto, en el que deseamos recoger, una vez más, las esperanzas y las angustias de la lglesia en el mundo contemporáneo.
+
+Hace cuarenta años, y nuevamente diez años después, tu siervo el Papa Pío XII, teniendo presentes las experiencias dolorosas de la familia humana, confió y consagró a tu Corazón Inmaculado todo el mundo, y especialmente los pueblos que, debido a su situación, son objeto particular de tu amor y solicitud.
+
+Este mundo de los hombres y de las naciones es el que tenemos ante los ojos también hoy: el mundo del segundo milenio que está finalizando, el mundo contemporáneo, nuestro mundo.
+
+La lglesia, recordando las palabras del Señor: "ld, pues, enseñad a todas las gentes... Yo estaré con ustedes siempre hasta la consumación del mundo' (Mt 18, 19-20), ha avivado en el Concilio Vaticano II su conciencia de su misión en este mundo.
+
+Y por esto, oh Madre de los hombres y de los pueblos, tú que conoces todos sus sufrimientos y esperanzas, tú que sientes maternalmente todas las luchas entre el bien y el mal, entre la luz y las tinieblas que invaden el mundo contemporáneo, acoge nuestro grito que, movidos por el Espíritu Santo, elevamos directamente a tu Corazón: abraza con amor de Madre y de Sierva del Señor este mundo humano nuestro, que te confiamos y consagramos, llenos de inquietud por la suerte terrena y eterna de los hombres y de los pueblos.
+
+De modo especial confiamos y consagramos aquellos hombres y aquellas naciones, que tienen necesidad particular de esta entrega y de esta consagración.
+
+"¡Nos acogemos a tu protección, Santa Madre de Dios! ¡No deseches las súplicas que te dirigimos en nuestras necesidades!"
+
+He aquí que, encontrándonos hoy ante Ti, Madre de Cristo, ante tu Corazón Inmaculado, deseamos, junto con toda la Iglesia, unirnos a la consagración que, por nuestro amor, tu Hijo hizo de sí mismo al Padre cuando dijo: 'Yo por ellos me santifico, para que ellos sean santificados en verdad' (Jn 17, 19). Queremos unirnos a nuestro Redentor en esta consagración por el mundo y por los hombres, la cual, en su Corazón divino, tiene el poder de conseguir el perdón y procurar la reparación.
+
+El poder de esta consagración dura por siempre, abarca a todos los hombres, pueblos y naciones, y supera todo el mal que el espíritu de las tinieblas es capaz de sembrar en el corazón del hombre y en su historia; y que, de hecho, ha sembrado en nuestro tiempo.
+
+¡0h, cuán profundamente sentimos la necesidad de consagración para la humanidad y para el mundo: para nuestro mundo contemporáneo, en unión con Cristo mismo! En efecto, la obra redentora de Cristo debe ser participada por el mundo a través de la lglesia.
+
+Lo manifiesta el presente Año de la Redención, el Jubileo extraordinario de toda la lglesia.
+
+En este Año Santo, bendita seas por encima de todas las creaturas, Tú. Sierva del Señor, que de manera más plena obedeciste la llamada divina.
+
+Te saludamos a Ti, que estás totalmente unida a la consagración redentora de tu Hijo.
+
+Madre de la Iglesia, ilumina el pueblo de Dios en los caminos de la fe, de la esperanza y de la caridad. Ilumina especialmente a los pueblos de los que Tú esperas nuestra consagración y nuestro ofrecimiento. Ayúdanos a vivir en la verdad de a consagración de Cristo por toda la familia humana del mundo actual.
+
+Al encomendarte, oh Madre, el mundo, todos los hombres y pueblos, te confiamos también la misma consagración del mundo, poniéndola en tu Corazón maternal.
+
+¡Corazón Inmaculado! Ayúdanos a vencer la amenaza del mal, que tan fácilmente se arraiga en los corazones de los hombres de hoy y que con sus efectos inconmensurables pesa ya sobre la vida presente y da la impresión de cerrar el camino hacia el futuro.
+
+¡Del hambre y de la guerra, libranos!
+
+¡De la guerra nuclear, de la autodestrucción incalculable y de todo tipo de guerra, líbranos!
+
+¡De los pecados contra la vida del hombre desde su primer instante, líbranos!
+
+¡Del odio y del envilecimiento de la dignidad de los hijos de Dios, líbranos!
+
+¡De toda clase de injusticias en la vida social, nacional e internacional, líbranos!
+
+¡De la facilidad de pisotear los mandamientos de la ley de Dios, líbranos!
+
+¡De la tentativa de ofuscar en los corazones humanos la verdad misma de Dios, líbranos!
+
+¡Del extravío de la conciencia del bien y del mal, líbranos!
+
+¡De los pecados contra el Espíritu Santo, líbranos! ¡Líbranos!
+
+Acoge, oh Madre de Cristo, este grito lleno del sufrimiento de todos los hombres. Lleno del sufrimiento de sociedades enteras
+
+Ayúdanos con el poder del Espíritu Santo a vencer todo pecado, el pecado del hombre y el "pecado del mundo", el pecado en todas sus ma nifestaciones.
+
+Aparezca, una vez más, en la historia del mundo el infinito poder salvador de la Redención: poder del Amor misericordioso. Que éste detenga el mal. Que transforme las conciencias. Que en tu Corazón Inmaculado se abra a todos la luz de la Esperanza. Amén.
+
 #### - Sagrado Silencio
 
 #### - Agradecimiento y Despedida
 
-- Actos de gratitud, 
- pag. 112
+- Actos de gratitud, pag. 112
 
-- Actos de súplica 
-pag. 113
+Oh Jesús, te doy rendidas gracias por los beneficios que me has dado. Yo no sabré nunca contarlos sino en el cielo, y allí te los agradeceré eternamente.
 
-- Oración Final.
-pag. 113
+Padre Celestial, te los agradezco por tu Santísimo Hijo Jesús.
+
+Espíritu Santo que me inspíras estos sentimientos, a Ti sea dado todo honor y toda gloria.
+
+Jesús mío, te doy gracias sobre todo por haberme redimido. Por haberme hecho cristiano mediante el Bautismo, cuyas promesas renuevo.
+
+Por haberme dado por Madre a tu misma Madre. Por haberme dado un grande amor a tan tierna Madre. Por haberme dado por Protector a San José, tu Padre adoptivo. Por haberme dado al Ángel de mi Guarda. Por haberme Conservado hasta ahora la vida para hacer penitencia. Por tener estos deseos de amarte y de vivir y morir en tu gracia. Amén.
+
+- Actos de súplica pag. 113
+
+Te ruego, Jesús mío, que no me dejes, porque me perderé. Que persevere siempre en tu amor. Que estés siempre conmigo, sobre todo cuando esté en peligro de pecar, y en la hora de mi muerte. Que no permitas que jamás me aparte de Ti. Que sepa padecer con resignación por Ti. Que no me preocupe sino de amarte. Que ame también a mis prójímos, a los pecadores, a los pobres y a los enfermos.
+
+Que ame mucho también a las almas del Purgatorio y que saque muchas almas de allí con mis obras y oraciones, que te las ofrezco con este fin. Te pido Señor que ampares a tu lglesia, al Papa que es tu Vicario visible en la tierra; a los Obispos y a los Sacerdotes, Religiosos y Religiosas.
+
+Te pido amor, Señor, a los que mandan en tu nombre; a los que gobiernan nuestra nación; a nuestra querida patria. A mis amados parientes y allegados.
+
+Que pagues a mis bienhechores con tu gracia. Que favorezcas a los que ruegan por mí. Que bendigas a los que me miren con indiferencia y no me quieran. Que trabaje mucho por Ti hasta la muerte. Que me concedas una muerte santa.
+
+Que diga al morir: ¡Jesús, Misericordia! ¡Jesús, en Ti confío! Que me lleves al cielo cuando muera. Amén.
+
+- Oración Final. pag. 113
+
+Jesús mío, dame tu bendición antes de salir, y que el recuerdo de esta visita, que acabo de hacerte, persevere en mi memoria y me anime a amarte más y más. Haz que cuando vuelva a visitarte, vuelva más santo. Aquí te dejo mi corazón para que te adore constantemente y lo hagas más agradable a tus divinos ojos. Pido a mi ángel de la Guarda que se quede en mi lugar, ya que no puedo continuar ahora, para seguir acompañándote, amándote y adorándote. Amén.
 
 #### Sagrado Silencio 
 
