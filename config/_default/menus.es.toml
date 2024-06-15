@@ -15,10 +15,20 @@
   weight = 20
 
 [[main]]
-  name = "2024"
+  name = " 2024"
   parent = "Vigilias"
   pageRef = "vigilias"
   weight = 20
+
+[[main]]
+  name = "Sábados de Reparación"
+  weight = 40
+
+[[main]]
+  name = "2024"
+  parent = "Sábados de Reparación"
+  pageRef = "sabados"
+  weight = 40
 
 #[[main]]
 #  name = "Parent"
