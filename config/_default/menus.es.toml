@@ -11,9 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Vigilias 2024"
+  name = "Vigilias"
+  weight = 20
+
+[[main]]
+  name = "2024"
+  parent = "Vigilias"
   pageRef = "vigilias"
-  weight = 10
+  weight = 20
+
+#[[main]]
+#  name = "Parent"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
 
 #[[main]]
 #  name = "Videos"
