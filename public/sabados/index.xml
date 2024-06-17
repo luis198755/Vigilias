@@ -18,5 +18,35 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-one/cover.jpg" />
     </item>
     
+    <item>
+      <title>4 de mayo -&gt; 8:00 - 10:00 hrs.</title>
+      <link>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-two/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-two/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-two/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>6 de abril -&gt; 8:00 - 10:00 hrs.</title>
+      <link>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-three/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-three/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-three/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>2 de marzo -&gt; 8:00 - 10:00 hrs.</title>
+      <link>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-four/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-four/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-four/cover.jpg" />
+    </item>
+    
   </channel>
 </rss>
