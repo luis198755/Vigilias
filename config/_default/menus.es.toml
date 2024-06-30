@@ -30,6 +30,16 @@
   pageRef = "sabados"
   weight = 40
 
+[[main]]
+  name = "Libros"
+  weight = 60
+
+[[main]]
+  name = "Tratado de la Verdadera Devoción a María"
+  parent = "Libros"
+  pageRef = "libros"
+  weight = 60
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20

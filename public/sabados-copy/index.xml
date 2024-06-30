@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sábados de Reparación 2024 on Vigilias de Adoración y Reparación</title>
+    <link>http://localhost:1313/sabados-copy/</link>
+    <description>Recent content in Sábados de Reparación 2024 on Vigilias de Adoración y Reparación</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/sabados-copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 de junio -&gt; 8:00 - 10:00 hrs.</title>
+      <link>http://localhost:1313/sabados-copy/post-lite-one/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sabados-copy/post-lite-one/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sabados-copy/post-lite-one/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>4 de mayo -&gt; 8:00 - 10:00 hrs.</title>
+      <link>http://localhost:1313/sabados-copy/post-lite-two/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sabados-copy/post-lite-two/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sabados-copy/post-lite-two/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>6 de abril -&gt; 8:00 - 10:00 hrs.</title>
+      <link>http://localhost:1313/sabados-copy/post-lite-three/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sabados-copy/post-lite-three/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sabados-copy/post-lite-three/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>2 de marzo -&gt; 8:00 - 10:00 hrs.</title>
+      <link>http://localhost:1313/sabados-copy/post-lite-four/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sabados-copy/post-lite-four/</guid>
+      <description>Santo rosario 8:00 AM - Santa Misa 9:00</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sabados-copy/post-lite-four/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
