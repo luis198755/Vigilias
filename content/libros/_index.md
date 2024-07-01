@@ -18,6 +18,12 @@ sharingLinks : false
 
 <img class="thumbnailshadow" src="img/img01.jpg" style="width: 100%;"/>
 
+## Objetivo fundamental del "Tratado de la Verdadera Devoción a la Santísima Virgen" de San Luis María de Montfort
+
+El objetivo fundamental del "Tratado de la Verdadera Devoción a la Santísima Virgen" de San Luis María de Montfort es proporcionar una enseñanza práctica de la misión, cuyo objetivo es descubrir la función de la Virgen María en el plan divino de la salvación y en la vida bautismal y apostólica del cristiano. Este libro está dirigido a un público muy amplio, aunque es un secreto revelado “de modo especial a los humildes y sencillos” como el mejor medio y el secreto más maravilloso para adquirir y conservar la divina Sabiduría.
+
+Además, Montfort expresa su deseo de llevar a los fieles a abrazar la forma “mejor y más santificadora” de vivir los compromisos cristianos por la consagración de amor a Cristo a través de las manos maternales de María. Este enfoque se basa en obrar siempre por María, con María, en María y para María, buscando una eficacia superior de santificación y una unión más perfecta con Jesucristo.
+
 ## Primera Parte: María en la Historia de la Salvación
 
 1. **Necesidad del culto a María**

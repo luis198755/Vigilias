@@ -18,7 +18,7 @@ sharingLinks : false
 
 Devoción de los cinco primeros sábados en reparación al Inmaculado Corazón de María 2024.
 
-<img class="thumbnailshadow" src="img/cover.webp" style="width: 100%;"/>
+<img class="thumbnailshadow" src="img/img01.jpg" style="width: 100%;"/>
 
 ## Introducción
 

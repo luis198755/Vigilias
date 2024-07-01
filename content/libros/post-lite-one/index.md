@@ -11,7 +11,7 @@ draft: false
 
 <img class="thumbnailshadow" src="gpt.png" style="width: 100%;"/> 
 
-## Resumen del Libro
+<!-- ## Resumen del Libro
 
 ### Objetivo Principal:
 
@@ -35,7 +35,7 @@ El objetivo del "Tratado" es enseñar a los cristianos la importancia de una ver
 
     * Esencia y beneficios de la consagración a Jesús por María.
     * Ejemplos bíblicos y efectos espirituales de la consagración.
-    * Prácticas específicas para vivir esta devoción diariamente.
+    * Prácticas específicas para vivir esta devoción diariamente. -->
 
 ## Cómo Usar Esta Herramienta de Estudio GPT
 
@@ -44,30 +44,36 @@ El objetivo del "Tratado" es enseñar a los cristianos la importancia de una ver
     * Lectura y Resúmenes: Pide resúmenes detallados de los capítulos para una comprensión rápida.
     * Explicación de Conceptos: Solicita explicaciones de conceptos complejos o puntos específicos.
 
-2. Respuesta a Preguntas:
-
-    * Preguntas Directas: Haz preguntas específicas sobre el contenido del libro.
-    * Contexto Adicional: Obtén contexto adicional sobre temas importantes.
-
-3. Clarificación y Explicación:
+2. Clarificación y Explicación:
 
     * Simplificación: Pide simplificaciones de conceptos difíciles.
     * Ejemplos Adicionales: Solicita ejemplos y analogías para una mejor comprensión.
 
-4. Asistencia en el Estudio:
+3. Asistencia en el Estudio:
 
     * Resúmenes y Esquemas: Utiliza resúmenes y esquemas para organizar tus estudios.
     * Preguntas de Práctica: Genera preguntas de práctica para reforzar tu aprendizaje.
 
-5. Interactividad:
+4. Interactividad:
 
     * Retroalimentación: Pide retroalimentación sobre tus respuestas y análisis.
     * Diálogos Interactivos: Participa en diálogos para explorar temas en profundidad.
 
-6. Motivación y Apoyo:
+5. Apoyo:
 
-    * Motivación: Recibe palabras de aliento y estrategias motivacionales.
     * Técnicas de Estudio: Obtén sugerencias sobre técnicas de estudio y hábitos efectivos.
+
+6. Respuesta a Preguntas:
+
+    * Preguntas Directas: Haz preguntas específicas sobre el contenido del libro.
+    * Contexto Adicional: Obtén contexto adicional sobre temas importantes.
+
+7. Preguntas de ejemplo:
+
+    * ¿Por qué San Luis considera esta devoción como esencial para la vida cristiana?
+    * ¿Cuál es el objetivo principal de consagrarse a Jesús a través de María?
+    * ¿Qué pasos recomienda San Luis para prepararse adecuadamente para la consagración?
+    * Menciona al menos tres prácticas exteriores recomendadas por San Luis para vivir esta devoción.
 
 ## Enlace a la Herramienta
 
