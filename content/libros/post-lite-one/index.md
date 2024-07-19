@@ -9,7 +9,7 @@ date: 2024-06-30
 draft: false
 ---
 
-<img class="thumbnailshadow" src="gpt.png" style="width: 100%;"/> 
+<img class="thumbnailshadow" src="cover.webp" style="width: 100%;"/> 
 
 <!-- ## Resumen del Libro
 
