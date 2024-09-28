@@ -1,6 +1,6 @@
 ---
 title: "4 de octubre -> 20:00 - 24:00 hrs."
-summary: "Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo."
+summary: "Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo ."
 categories: ["Post","Blog",]
 tags: ["Son Huasteco","Huapango"]
 #externalUrl: ""
