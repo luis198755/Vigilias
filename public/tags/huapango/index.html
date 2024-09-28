@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.15e442b5accd5cb54dff7341aa4869c0e8f290c44366cbe06b0d39094a254c118de74b6ed0b4f61dc4ab14e1af24b3a222d275e06d809ed991c8d3c4eb7ea9f4.css"
-    integrity="sha512-FeRCtazNXLVN/3NBqkhpwOjykMRDZsvgaw05CUolTBGN50tu0LT2HcSrFOGvJLOiItJ14G2AntmRyNPE636p9A==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.d001892b80b74c0b24b1302cb037ba6ac1c971712fc5315aab1fbc01ff2a55ef7802d3db59171d43c3ef7e22ce98e8751e007354d4f859c7f9e581757fe7842b.css"
+    integrity="sha512-0AGJK4C3TAsksTAssDe6asHJcXEvxTFaqx&#43;8Af8qVe94AtPbWRcdQ8PvfiLOmOh1HgBzVNT4Wcf55YF1f&#43;eEKw==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -46,11 +46,14 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.f5c7687e2a3365a5a366307858918deafa574ab869c626f69dcdd5363e26a725991d0efa1aaaff7ba4b7e2472876189d153d2f9b46a39206caf364407e2aaa77.js"
-    integrity="sha512-9cdofiozZaWjZjB4WJGN6vpXSrhpxib2nc3VNj4mpyWZHQ76Gqr/e6S34kcodhidFT0vm0ajkgbK82RAfiqqdw==" data-copy="" data-copied=""></script>
   
   
-  <script src="/js/zoom.min.js"></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.efbf3b6b987689fffaf2d7b73173d2690c0279a04d444b0537a77d7f4ff6e6d493445400cb0cf56bc0f0f123e19f15394e63cae34e67f069bd013dd5c73df56e.js"
+    integrity="sha512-7787a5h2if/68te3MXPSaQwCeaBNREsFN6d9f0/25tSTRFQAywz1a8Dw8SPhnxU5TmPK405n8Gm9AT3Vxz31bg==" data-copy="" data-copied=""></script>
+  
+  
+  
+  <script src="/lib/zoom/zoom.min.37d2094687372da3f7343a221a470f6b8806f7891aa46a5a03966af7f0ebd38b9fe536cb154e6ad28f006d184b294525a7c4054b6bbb4be62d8b453b42db99bd.js" integrity="sha512-N9IJRoc3LaP3NDoiGkcPa4gG94kapGpaA5Zq9/Dr04uf5TbLFU5q0o8AbRhLKUUlp8QFS2u7S&#43;Yti0U7QtuZvQ=="></script>
   
   
   
@@ -72,20 +75,22 @@
   <meta property="og:locale" content="es">
   <meta property="og:type" content="website">
 
-  <meta name="twitter:card" content="summary"><meta name="twitter:title" content="Huapango">
-<meta name="twitter:description" content="My awesome website">
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Huapango">
+  <meta name="twitter:description" content="My awesome website">
 
   
   
 
   
   
-  <meta name="author" content="FRICYDIM Puebla" />
   
   
   
 
-<script src="/lib/jquery/jquery.slim.min.js" integrity=""></script>
+<script src="/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
+
 
 
 
@@ -109,6 +114,7 @@
 
   
   
+
 
 
   
@@ -139,8 +145,10 @@
         <a href="/" class="flex">
             <span class="sr-only">Vigilias de Adoración y Reparación</span>
 
+            
             <img src="/img/logo.webp" width="256" height="256"
                 class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="Vigilias de Adoración y Reparación" />
+            
 
         </a>
     </div>
@@ -402,8 +410,7 @@
     </div>
     <div class="-my-2 -mr-2 md:hidden">
 
-        <label id="menu-button" for="menu-controller" class="block">
-            <input type="checkbox" id="menu-controller" class="hidden" />
+        <label id="menu-button" class="block">
             
             <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
                 
@@ -420,7 +427,7 @@
                 <ul
                     class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
 
-                    <li>
+                    <li id="menu-close-button">
                         <span
                             class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
 
@@ -641,13 +648,6 @@
 
   <section class="flex flex-col max-w-full mt-0 mb-5 prose dark:prose-invert lg:flex-row">
     
-    <script>
-      var oid = "views_term_Huapango"
-      var oid_likes = "likes_term_Huapango"
-    </script>
-    
-    
-    <script type="text/javascript" src="/js/page.min.0860cf4e04fa2d72cc33ddba263083464d48f67de06114529043cb4623319efed4f484fd7f1730df5abea0e2da6f3538855634081d02f2d6e920b956f063e823.js" integrity="sha512-CGDPTgT6LXLMM926JjCDRk1I9n3gYRRSkEPLRiMxnv7U9IT9fxcw31q&#43;oOLabzU4hVY0CB0C8tbpILlW8GPoIw=="></script>
   </section>
 
 
@@ -659,33 +659,346 @@
 
   
 
-  
-
-  
-  <h2 class="mt-12 mb-3 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-    2024
-  </h2>
-  <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  <section class="space-y-10 w-full">
+    
+    
     
     
 
-  <a href="/vigilias/post-lite-07/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-10/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-07/cover_hu2df33e517a0fff01fe87e5eff68bb943_118365_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-10/cover_hu6911545192467376090.jpg);"></div>
         
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/vigilias/post-lite-10/">4 de octubre -> 20:00 - 24:00 hrs.</div>
+        
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-09-20T00:00:00&#43;00:00">20 septiembre 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+
+      </div>
       
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
+      </div>
+      
+    </div>
+  </a>
 
-      <div class="px-6 py-4">
+    
+    
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-09/">
+    
+        
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-09/cover_hu5846956643970852990.jpg);"></div>
+        
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/vigilias/post-lite-09/">6 de septiembre -> 20:00 - 24:00 hrs.</div>
+        
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-08-20T00:00:00&#43;00:00">20 agosto 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+
+      </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
+      </div>
+      
+    </div>
+  </a>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-08/">
+    
+        
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-08/cover_hu345498027768865531.jpg);"></div>
+        
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/vigilias/post-lite-08/">2 de agosto -> 20:00 - 24:00 hrs.</div>
+        
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-07-20T00:00:00&#43;00:00">20 julio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+
+      </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
+      </div>
+      
+    </div>
+  </a>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-07/">
+    
+        
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-07/cover_hu8378414236159313106.jpg);"></div>
+        
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-07/">5 de julio -> 20:00 - 24:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -722,7 +1035,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-07-03 00:00:00 &#43;0000 UTC">3 julio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-07-03T00:00:00&#43;00:00">3 julio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -735,40 +1048,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/sabados/post-lite-five/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/sabados/post-lite-five/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/sabados/post-lite-five/cover_hufd6141832dc5c3c012d1d7c239b0bfc2_228630_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/sabados/post-lite-five/cover_hu8463941046243336377.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/sabados/post-lite-five/">1 de junio -> 8:00 - 10:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -805,7 +1134,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-07-03 00:00:00 &#43;0000 UTC">3 julio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-07-03T00:00:00&#43;00:00">3 julio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -818,40 +1147,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Santo rosario 8:00 AM - Santa Misa 9:00
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Santo rosario 8:00 AM - Santa Misa 9:00
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/libros/post-lite-one/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/libros/post-lite-one/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/libros/post-lite-one/cover_huba9b90993a2c2b3817d7e66e931d2eff_66028_600x0_resize_q75_h2_box_2.webp);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/libros/post-lite-one/cover_hu13265012953784731935.webp);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/libros/post-lite-one/">Herramienta de estudio sobre el Libro</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -888,7 +1233,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-06-30 00:00:00 &#43;0000 UTC">30 junio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">2 mins</span>
+  <time datetime="2024-06-30T00:00:00&#43;00:00">30 junio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">2 mins</span>
   
 
   
@@ -901,40 +1246,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          ¡Hola! Esta es una guía de estudio para el libro “Tratado de la Verdadera Devoción a la Santísima Virgen Preparación del Reinado de Jesucristo” de San Luis María de Montfort. Este libro es una obra fundamental para aquellos que desean profundizar en la devoción mariana y consagrar su vida a Jesucristo a través de María. Aquí te ofrezco un pequeño resumen y cómo puedes aprovechar esta herramienta de estudio para comprender mejor el contenido del libro
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        ¡Hola! Esta es una guía de estudio para el libro “Tratado de la Verdadera Devoción a la Santísima Virgen Preparación del Reinado de Jesucristo” de San Luis María de Montfort. Este libro es una obra fundamental para aquellos que desean profundizar en la devoción mariana y consagrar su vida a Jesucristo a través de María. Aquí te ofrezco un pequeño resumen y cómo puedes aprovechar esta herramienta de estudio para comprender mejor el contenido del libro
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/vigilias/post-lite-06/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-06/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-06/cover_hu255e46490e5730646f705a52b30e930f_91109_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-06/cover_hu17735386845392296205.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-06/">7 de junio -> 20:00 - 24:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -971,7 +1332,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-06-02 00:00:00 &#43;0000 UTC">2 junio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">21 mins</span>
+  <time datetime="2024-06-02T00:00:00&#43;00:00">2 junio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">21 mins</span>
   
 
   
@@ -984,40 +1345,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Esta vigilia de adoración y reparación la ofresemos especialmente para honrar y venerar el amor y la compasión que Jesús mostró por la humanidad. Él mostró su corazón y expresó su deseo de que el amor a su Sagrado Corazón se difundiera por todo el mundo.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/sabados/post-lite-one/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/sabados/post-lite-one/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/sabados/post-lite-one/cover_hu0c04724fdab7c977f14fce7df1488212_113790_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/sabados/post-lite-one/cover_hu6695333165837753633.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/sabados/post-lite-one/">1 de junio -> 8:00 - 10:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1054,7 +1431,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-06-01 00:00:00 &#43;0000 UTC">1 junio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-06-01T00:00:00&#43;00:00">1 junio 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1067,40 +1444,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Santo rosario 8:00 AM - Santa Misa 9:00
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Santo rosario 8:00 AM - Santa Misa 9:00
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/videos/post-lite-two/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/videos/post-lite-two/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/videos/post-lite-two/cover_hu28b8596acd918f119d8e62d81297b8c2_1083808_600x0_resize_q75_h2_box_2.webp);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/videos/post-lite-two/cover_hu6170586099069055702.webp);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/videos/post-lite-two/">La Camaya</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1137,7 +1530,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-05-10 00:00:00 &#43;0000 UTC">10 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-05-10T00:00:00&#43;00:00">10 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1150,40 +1543,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          El Huapango La Camaya es otra joya musical dentro del repertorio tradicional de la Huasteca, una región que abarca varios estados en el este de México
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        El Huapango La Camaya es otra joya musical dentro del repertorio tradicional de la Huasteca, una región que abarca varios estados en el este de México
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/videos/post-lite-one/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/videos/post-lite-one/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/videos/post-lite-one/cover_hu28b8596acd918f119d8e62d81297b8c2_1083808_600x0_resize_q75_h2_box_2.webp);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/videos/post-lite-one/cover_hu6170586099069055702.webp);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/videos/post-lite-one/">El Caballito</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1220,7 +1629,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-05-10 00:00:00 &#43;0000 UTC">10 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-05-10T00:00:00&#43;00:00">10 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1233,40 +1642,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        El Huapango El Caballito es una pieza emblemática dentro de la música folklórica mexicana, particularmente conocida en el estilo de huapango, que es originario de la región de la Huasteca en México.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/sabados/post-lite-two/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/sabados/post-lite-two/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/sabados/post-lite-two/cover_hue8855945746860bd6af262f14d5f80ac_172208_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/sabados/post-lite-two/cover_hu16645371002477291016.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/sabados/post-lite-two/">4 de mayo -> 8:00 - 10:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1303,7 +1728,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-05-04 00:00:00 &#43;0000 UTC">4 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-05-04T00:00:00&#43;00:00">4 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1316,40 +1741,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Santo rosario 8:00 AM - Santa Misa 9:00
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Santo rosario 8:00 AM - Santa Misa 9:00
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/vigilias/post-lite-05/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-05/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-05/cover_huf428bb3b79bb1ec66c63ffa6740b87cf_135077_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-05/cover_hu785734267142657185.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-05/">3 de mayo - 20:00 - 24:00</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1386,7 +1827,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-05-03 00:00:00 &#43;0000 UTC">3 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-05-03T00:00:00&#43;00:00">3 mayo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1399,40 +1840,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/sabados/post-lite-three/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/sabados/post-lite-three/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/sabados/post-lite-three/cover_hu0b1c686a0c47f2377ed56990edba9b0d_178339_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/sabados/post-lite-three/cover_hu86719542038488115.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/sabados/post-lite-three/">6 de abril -> 8:00 - 10:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1469,7 +1926,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-04-06 00:00:00 &#43;0000 UTC">6 abril 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-04-06T00:00:00&#43;00:00">6 abril 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1482,40 +1939,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Santo rosario 8:00 AM - Santa Misa 9:00
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Santo rosario 8:00 AM - Santa Misa 9:00
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/vigilias/post-lite-04/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-04/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-04/cover_hu8ad5f994b36b84c488faafe09ad75a0c_182517_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-04/cover_hu7569800076657798293.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-04/">5 de abril -> 20:00 - 24:00</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1552,7 +2025,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-04-05 00:00:00 &#43;0000 UTC">5 abril 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-04-05T00:00:00&#43;00:00">5 abril 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1565,40 +2038,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/sabados/post-lite-four/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/sabados/post-lite-four/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/sabados/post-lite-four/cover_hu28d93fd94884b71098126b7f2f7d2cde_134857_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/sabados/post-lite-four/cover_hu1346407387187872095.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/sabados/post-lite-four/">2 de marzo -> 8:00 - 10:00 hrs.</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1635,7 +2124,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-03-02 00:00:00 &#43;0000 UTC">2 marzo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-03-02T00:00:00&#43;00:00">2 marzo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1648,40 +2137,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Santo rosario 8:00 AM - Santa Misa 9:00
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Santo rosario 8:00 AM - Santa Misa 9:00
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/vigilias/post-lite-03/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-03/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-03/cover_hub99b4ba125feb1521450094ca2a4cc8f_114440_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-03/cover_hu17409702918294618.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-03/">1 de marzo -> 20:00 - 24:00</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1718,7 +2223,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-03-01 00:00:00 &#43;0000 UTC">1 marzo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-03-01T00:00:00&#43;00:00">1 marzo 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1731,40 +2236,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/vigilias/post-lite-02/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-02/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-02/cover_hu64dbecd389c45859b6b34a39442ce296_142310_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-02/cover_hu13597769744222686972.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-02/">2 de febrero -> 20:00 - 24:00</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1801,7 +2322,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-02-02 00:00:00 &#43;0000 UTC">2 febrero 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-02-02T00:00:00&#43;00:00">2 febrero 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1814,40 +2335,56 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
+      </div>
+      
     </div>
   </a>
 
     
     
 
-  <a href="/vigilias/post-lite-01/" class="min-w-full">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <a class="flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden" href="/vigilias/post-lite-01/">
     
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
         
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/vigilias/post-lite-01/cover_hudc4333a16ce772cb43bbe33a956f298e_84522_600x0_resize_q75_box.jpg);"></div>
+        <div class="w-full md:w-auto h-full thumbnail nozoom " style="background-image:url(/vigilias/post-lite-01/cover_hu15128536423186449962.jpg);"></div>
         
-      
-
-      <div class="px-6 py-4">
-
+      <div class=" p-4">
+      <div class="items-center text-left text-xl font-semibold">
         
         <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
           href="/vigilias/post-lite-01/">5 de enero -> 20:00 - 24:00</div>
         
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
+        
+        
+      </div>
+      <div class="text-sm text-neutral-500 dark:text-neutral-400">
+        
 
 
 
@@ -1884,7 +2421,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-01-05 00:00:00 &#43;0000 UTC">5 enero 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+  <time datetime="2024-01-05T00:00:00&#43;00:00">5 enero 2024</time><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
   
 
   
@@ -1897,25 +2434,19 @@
 
 
 
-        </div>
-
-        
-        <div class="py-1 prose dark:prose-invert">
-          Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
-        </div>
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
 
       </div>
+      
+      <div class="py-1 max-w-fit prose dark:prose-invert">
+        Una vigilia de reparación al Sagrado Corazón de Jesús y al Inmaculado Corazón de María es un acto de devoción y oración, generalmente nocturno, en el que los fieles buscan consolar y reparar las ofensas hechas a los corazones de Jesús y María mediante la adoración, el rezo del santo Rosario y otras prácticas espirituales.
+      </div>
+      
     </div>
   </a>
 
     
+    
   </section>
-  
-
-  
 
   
 
