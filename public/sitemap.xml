@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-eight/</loc>
+    <lastmod>2024-09-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://vigilias-fricydim-puebla.vercel.app/categories/blog/</loc>
     <lastmod>2024-09-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -57,19 +63,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-seven/</loc>
+    <lastmod>2024-08-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://vigilias-fricydim-puebla.vercel.app/vigilias/post-lite-08/</loc>
     <lastmod>2024-07-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-five/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <loc>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-six/</loc>
+    <lastmod>2024-07-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://vigilias-fricydim-puebla.vercel.app/vigilias/post-lite-07/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vigilias-fricydim-puebla.vercel.app/sabados/post-lite-five/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

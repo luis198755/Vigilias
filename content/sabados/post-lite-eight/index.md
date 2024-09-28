@@ -1,11 +1,11 @@
 ---
-title: "6 de julio -> 8:00 - 10:00 hrs."
+title: "5 de octubre -> 8:00 - 10:00 hrs."
 summary: "Santo rosario 8:00 AM - Santa Misa 9:00"
 categories: ["Post","Blog",]
 tags: ["Son Huasteco","Huapango"]
 #externalUrl: ""
 #showSummary: true
-date: 2024-07-03
+date: 2024-09-20
 draft: false
 ---
 
